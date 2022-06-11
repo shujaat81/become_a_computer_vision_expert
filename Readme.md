@@ -34,7 +34,7 @@ The following are covered in the notebooks.
 ## Part 1 - Python Programming Language
 
 
-### [Basic Python](https://github.com/Nyandwi/machine_learning_complete/blob/main/0_python_for_ml/intro_to_python.ipynb)
+### [Basic Python](https://github.com/shujaat81/become_a_computer_vision_expert/blob/main/Python_Programming_Language/Basic_python/basic_python_notebook.ipynb)
 
 * Data types
 * loops
@@ -42,7 +42,7 @@ The following are covered in the notebooks.
 * functions
 * file I/O
 
-### [Advance Python](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/1_intro_to_Numpy_for_data_computation.ipynb)
+### [Advance Python](https://github.com/shujaat81/become_a_computer_vision_expert/blob/main/Python_Programming_Language/advance_python/advance_python_notebook.ipynb)
 
 * classes
 * inheritance
