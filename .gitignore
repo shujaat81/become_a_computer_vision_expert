@@ -5,10 +5,15 @@ __pycache__/
 
 #pycharm
 *.idea/
+
 #macos
 *.DS_Store
+
 # C extensions
 *.so
+
+# jupyter notebook
+*.ipynb_checkpoints
 
 # Distribution / packaging
 .Python

@@ -36,11 +36,18 @@ The following are covered in the notebooks.
 
 ### [Basic Python](https://github.com/shujaat81/become_a_computer_vision_expert/blob/main/Python_Programming_Language/Basic_python/basic_python_notebook.ipynb)
 
-* Data types
-* loops
-* operators
-* functions
-* file I/O
+* PYTHON FUNDAMENTALS
+* CONTROL FLOW
+* FUNCTIONS
+* PYTHON LIST
+* PYTHON DICTIONARY
+* PYTHON SET
+* EXCEPTION HANDLING
+* PYTHON LOOP WITH ELSE CLAUSE
+* MORE ON FUNCTIONS
+* MODULES
+* FILE I/O
+* MANAGING THIRD-PARTY PACKAGES
 
 ### [Advance Python](https://github.com/shujaat81/become_a_computer_vision_expert/blob/main/Python_Programming_Language/advance_python/advance_python_notebook.ipynb)
 
